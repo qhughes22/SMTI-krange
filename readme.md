@@ -1,9 +1,7 @@
 # Super Stable Matching and K-Range
-Codebase for my senior honors project on super-stable matching and k-range preferences.
+Tools I created as part of my senior honors project on super-stable matching and k-range preferences. Implementations of algorithms related to super-stable matchings can be found here, along with scripts to generate preferences restricted in either a tiered model or a k-range model.
 
-This is the code I used for the honors project I submitted to Amherst College on 4/18/22.
-
-If you want to use these functions to run stable matching algorithms, I suggest you look to this repo instead. It contains the scripts that might be useful without files specific to my project.
+The full codebase for my project can be found at https://github.com/qhughes22/super-stable-matching-thesis. This repo contains the code that may be useful to anyone trying to study the stable matching problem.
 
 ## Setup
 
