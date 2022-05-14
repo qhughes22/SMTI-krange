@@ -1,7 +1,7 @@
 # Super Stable Matching and K-Range
 Tools I created as part of my senior honors project on super-stable matching and k-range preferences. Implementations of algorithms related to super-stable matchings can be found here, along with scripts to generate preferences restricted in either a tiered model or a k-range model.
 
-The full codebase for my project can be found at https://github.com/qhughes22/super-stable-matching-thesis. This repo contains the code that may be useful to anyone trying to study the stable matching problem, introduce by [Gale and Shapley](https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf).
+The full codebase for my project as well as the thesis document can be found at https://github.com/qhughes22/super-stable-matching-thesis. This repo contains the code that may be useful to anyone trying to study the stable matching problem, introduce by [Gale and Shapley](https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf).
 
 Super-stable matchings are a notion of stability when considering stable matching with ties.
 A matching is super stable if and only if there is no man and woman such that the two weakly
